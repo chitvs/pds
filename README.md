@@ -1,6 +1,6 @@
-# Java client-server applications
+# Java client-server applications exercises
 
-This repository contains **client-server applications** from my university exams. Each exam folder includes the Java source code for the client, a compiled JAR server, and a PDF with exam instructions.
+This repository contains **client-server applications** exercises from my university exams. Each exam folder includes the Java source code for the client, a compiled JAR server, and a PDF with exam instructions.
 
 ## How to compile and run
 ### Prerequisites
