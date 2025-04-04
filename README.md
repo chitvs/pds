@@ -4,8 +4,8 @@ This repository contains client-server applications exercises from my university
 
 ## How to compile and run
 ### Prerequisites
-- Install **Java**
-- (Optional) Use **Eclipse IDE** to open the projects.
+- Install Java
+- (Optional) Use Eclipse to open the projects.
 
 ### Running the client
 1. Navigate to an exam directory:
@@ -26,5 +26,5 @@ This repository contains client-server applications exercises from my university
    ```
 
 ## Notes
-- These are my own **exam solutions**, so they may not be optimized but **all of them work!** 😊  
+- These are my own exam solutions, so they may not be optimized but all of them work! 😊  
 - Feel free to explore, modify, and learn from them.  
