@@ -10,7 +10,7 @@ This repository contains client-server applications exercises from my university
 ### Running the client
 1. Navigate to an exam directory:
    ```sh
-   cd exam/16-07-2020
+   cd src/16-07-2020
    ```
 2. Compile the source files:
    ```sh
