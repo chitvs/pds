@@ -24,7 +24,5 @@ This repository contains client-server applications exercises from my university
    ```sh
    java -jar server.jar
    ```
-
-## Notes
-- These are my own exam solutions, so they may not be optimized but all of them work! 😊  
-- Feel free to explore, modify, and learn from them.  
+---
+> These are my own exam solutions, so they may not be optimized but all of them work! Feel free to explore, modify, and learn from them 😊.
