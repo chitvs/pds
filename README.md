@@ -16,7 +16,7 @@ This repository contains client-server applications exercises from my university
    ```sh
    javac -d bin *.java
    ```
-3. Run the client and the server:
+3. Run the client and server:
    ```sh
    java -cp bin ClientMain & java -jar server.jar
    ```
