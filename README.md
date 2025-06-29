@@ -10,19 +10,15 @@ This repository contains client-server applications exercises from my university
 ### Running the client
 1. Navigate to an exam directory:
    ```sh
-   cd src/"year"/"month"/
+   cd src/<year>/<month>/
    ```
 2. Compile the source files:
    ```sh
    javac -d bin *.java
    ```
-3. Run the client:
+3. Run the client and the server:
    ```sh
-   java -cp bin ClientMain
-   ```
-4. Run the server, if using the pre-built JAR:
-   ```sh
-   java -jar server.jar
+   java -cp bin ClientMain & java -jar server.jar
    ```
 ---
 > These are my own exam solutions, so they may not be optimized but all of them work! Feel free to explore, modify, and learn from them 😊.
