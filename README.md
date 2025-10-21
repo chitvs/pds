@@ -7,6 +7,12 @@ This repository contains client-server applications exercises from my university
 - Install Java
 - (Optional) Use Eclipse to open the projects.
 
+Clone the repository:
+```sh
+git clone https://github.com/chitvs/pds.git
+cd pds
+```
+
 ### Running the client
 1. Navigate to an exam directory:
    ```sh
